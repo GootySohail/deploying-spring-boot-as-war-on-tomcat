@@ -55,7 +55,7 @@
 	          <artifactId>tomcat9-maven-plugin</artifactId>
 	          <version>3.4.0</version>
 			  <configuration>
-			  	 <url>http://103.4.11.89:8000/manager/text</url>
+			  	 <url>http://localhost:8000/manager/text</url>
 			     <server>localtomcat</server>
 			     <path>/example</path>
 			   </configuration>
